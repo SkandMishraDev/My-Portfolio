@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Projects from '../../Components/Home/Projects'
 const Work = () => {
   return (
-    <div>Work</div>
+    <Projects/>
   )
 }
 
